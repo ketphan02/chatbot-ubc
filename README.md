@@ -1,5 +1,5 @@
 # chatbot-ubc
-My attemp to create a platfrom which let stragers around UBCO chat and make more friends.
+My attempt to create a platform which let strangers (students, staffs, etc) around UBCO chat and make more friends.
 
 ### Idea:
 Shout out to [dnhuan](https://github.com/dnhuan/TDNchat) and [hieplpvip](https://github.com/ptnkchat/ptnkchat).
