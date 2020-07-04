@@ -9,3 +9,6 @@ Typescript but I have to change the extension from .ts to .mjs in order to proce
 
 ### Deloyment:
 Computer -> Heroku -> Computer -> Github.
+
+### Version:
+v1.0: Users have to type the commands, no intructions, no pretty UI.
