@@ -12,7 +12,8 @@ Computer -> Heroku -> Computer -> Github.
 
 ### Version:
 v1.0:   Users have to type the commands, no intructions, no pretty UI.</br>
-v2.0:   * Users can use buttons in the menu.
-        * Speed up the procedures by open and close database only once.
-        * No more losing data due to dyno sleeping (heroku).
-        * Infinite wait time.
+v2.0:
+* Users can use buttons in the menu.
+* Speed up the procedures by open and close database only once.
+* No more losing data due to dyno sleeping (heroku).
+* Infinite wait time.
