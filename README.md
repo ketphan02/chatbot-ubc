@@ -18,3 +18,4 @@ Computer -> Heroku -> Computer -> Github.
 * Speed up the procedures by open and close database only once.
 * No more losing data due to dyno sleeping (heroku).
 * Infinite wait time.
+* Already has instruction.
