@@ -1,4 +1,4 @@
-# chatbot-ubc
+# UBC Chat
 My attempt to create a platform which let strangers (students, staffs, etc) around UBCO chat and make more friends.
 
 ### Idea:
